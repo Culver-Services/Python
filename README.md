@@ -22,3 +22,5 @@ The following script shows the uses of AND and OR operators in the conditional s
 
 switch case statement:
 Python does not support a switch-case statement like other standard programming languages, but this type of statement can be implemented in python by using a custom function. employee_details() function is created in the following script to work like the switch-case statement. The function contains one parameter and a dictionary named switcher. The value of the function parameter is checked with each index of the dictionary. If any match found, then the corresponding value of the index will be returned from the function; otherwise, the second parameter value of the switcher.get() method will be returned.
+
+https://linuxhint.com/python_scripts_beginners_guide/
